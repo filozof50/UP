@@ -68,7 +68,7 @@ Success criteria:
   - Going to right place to empty garbage bag, finding trash can.
 
 
-4. Initialization: The first time SRHC is activated in the room/house it should go through the place (going next to the walls, following right edges), and scan the position of all the objects in the room. After scanning the positions, it should be able to reconstruct the room, so it can go through it and clean it not breaking anything. For this purpose SRHC will use intelligent sensors, and also computer vision. Going through the room can be set manually, but also will be performed daily. Before first cleaning on a day it will automaticly start room scanning.
+4. Initialization: The first time SRHC is activated in the room/house it should go through the place (going next to the walls, following right edges), and scan the position of all the objects in the room. After scanning the positions, it should be able to reconstruct the room, so it can go through it and clean it not breaking anything. For this purpose SRHC will use intelligent sensors, and also computer vision. Going through the room can be set manually, but also will be performed daily. Before first cleaning on a day it will automatically start room scanning.
 
 Success criteria:
   - Being able to go through the room that should be cleaned.
