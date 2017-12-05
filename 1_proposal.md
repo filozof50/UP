@@ -13,7 +13,7 @@
 
 
 
-| Participant number  |  Participant organisation name   |Participant name      |  Participant short name  | Country  |
+| Participant number  |  Participant organization name   |Participant name      |  Participant short name  | Country  |
 |----------|:-------------:|:-------------:|:------:|-------------------------------:|
 | 1 (Coordinator) | Faculty of Mathematics, University of Belgrade, Serbia http://www.math.rs | Nikola Dimitrijevic | ND | Serbia |
 | 2 | Faculty of Mathematics, University of Belgrade, Serbia http://www.math.rs |   Strahinja Stanojevic   |   SS | Serbia |
@@ -78,7 +78,7 @@ Success criteria:
 
 5. Programmability: SRHC should be programmable in some ways. User will be able to programme it to start automatic cleaning every day at the same time. Before that initial cleaning room scanning will be performed as described before. User also will be able to pick a day for emptying the garbage bag.
 
-Succes criteria:
+Success criteria:
   - Recognized first cleaning of the day (after date change).
   - Recognizing day of the week for emptying garbage bag, and successfully emptying it.
 
@@ -91,5 +91,51 @@ Success criteria:
 
 7. Cleaning hardly accessible spots: Our robot will be able to access hardly accessible spots such as corners of the walls.
 
-Succes criteria:
+Success criteria:
   - Cleared corners of the walls and other hardly accessible spots.
+
+
+# Implementation
+
+## 2.1 Management structure and procedures
+
+Describe the organizational structure and decision-making mechanisms of the project. Show how they are matched to the complexity and scale of the project.
+
+We are planning to have a equal organization of responsibilities and work. Every project team member will have their own obligations and assignments. The plan of the implementation is to have one coordinator (project manager) who will assign responsibilities and obligations, and also one coordinator for technological solutions (S&T manager). Having a main coordinator will ensure that the project progress is supervised, which will reduce probability of failure or exceeding deadlines.
+
+
+Precise milestones and delivery dates as well as the content of the deliverables are defined in a detailed project plan. Project control will be established, supported by communications tools and a central communications platform. There will be visible assignments, bugs, fixes, etc. Also, project team will have face to face meetings. The main communication channels will be e-mails, phone and mentioned meetings.
+
+Team manager responsibilities:
+  - co-ordination of the project
+  - risk analysis
+  - negotiations and daily meetings with clients
+  - scheduling the project team meetings
+  - maintenance the project plan
+
+S&T manager responsibilities:
+  - scientific and technological planning
+  - recognizing appropriate technologies
+  - recognizing appropriate technological solutions
+  - having a constant knowledge of Progress
+  - being in touch with the project team by phone, e-mail or through face to face meetings
+  - present overall monthly progress to team manager
+
+Work package leader responsibilities:
+  - organizing a meeting on specific work package when needed (required by team manager or S&T manager)
+  - present weekly progress to S&T manager
+  - present monthly progress to S&T manager
+  - give the oral presentations at review meetings
+  - propose the methodology to be used for the work on work package
+
+
+All project team members responsibilities:
+  - following the development plan
+  - following the determined rules
+  - present weekly progress (for their part of development)
+  - present monthly progress (for their part of development)
+  - being kind and friendly to other team members
+
+
+Continuous project evaluation will take place to verify the quality of the deliverables, working documents and research results, measured against the project vision, objectives and
+quality requirements of the European Commission.
