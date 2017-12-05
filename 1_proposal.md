@@ -89,4 +89,7 @@ Success criteria:
   - Not broken if something of house furniture, such as chair falls on it.
 
 
-7. Cleaning hardly
+7. Cleaning hardly accessible spots: Our robot will be able to access hardly accessible spots such as corners of the walls.
+
+Succes criteria:
+  - Cleared corners of the walls and other hardly accessible spots.
