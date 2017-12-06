@@ -59,17 +59,17 @@ Success criteria:
 
 3. Self management: To lessen the amount of work a person has to do, SRHC should go back to the charging station when it's low on battery. Also, it should go back to the charging station
 when it finishes its job. When the garbage bag is full, it should dump its content into the
-designated trash can. When battery power is under 20%, SRHC should calculate distance to charging station, and check how much time it needs to come back, so it doesn't turn off before coming back. It also should to that when battery percentage is under 15 and 10 percent. If battery level is 5% or less SRHC doesn't clean anymore, but turn to safe mode and instantly go back to charging station.  
+designated trash can. When battery power is under 20%, SRHC should calculate distance to charging station, and check how much time it needs to come back, so it doesn't turn off before coming back. It also should do that when battery percentage is under 15 and 10 percent. If battery level is 5% or less SRHC doesn't clean anymore, but goes into safe mode and goes back to the charging station.  
 
 Success criteria:
   - Coming back to charging station.
-  - Calculating distance to charging station right.
-  - Having time to come back to charging station before turn off.
+  - Calculating distance to charging station correctly.
+  - Having time to come back to charging station before the battery runs out.
   - Finding out that garbage bag is full.
-  - Going to right place to empty garbage bag, finding trash can.
+  - Going to the right place to empty its garbage bag, finding the trash can.
 
 
-4. Initialization: The first time SRHC is activated in the room/house it should go through the place (going next to the walls, following right edges), and scan the position of all the objects in the room. After scanning the positions, it should be able to reconstruct the room, so it can go through it and clean it not breaking anything. For this purpose SRHC will use intelligent sensors, and also computer vision. Going through the room can be set manually, but also will be performed daily. Before first cleaning on a day it will automatically start room scanning.
+4. Initialization: The first time SRHC is activated in the room/house it should go through the place (going next to the walls, following right edges), and scan the position of all the objects in the room. After scanning the positions, it should be able to reconstruct the room, so it can go through it and clean it without breaking anything. For this purpose SRHC will use intelligent sensors, and also computer vision. Going through the room can be set manually, but also will be performed daily. Before the first cleaning of a day it will automatically start room scanning.
 
 Success criteria:
   - Being able to go through the room that should be cleaned.
@@ -77,23 +77,23 @@ Success criteria:
   - Starting room scanning every day before first cleaning.
 
 
-5. Programmability: SRHC should be programmable in some ways. User will be able to programme it to start automatic cleaning every day at the same time. Before that initial cleaning room scanning will be performed as described before. User also will be able to pick a day for emptying the garbage bag.
+5. Programmability: SRHC should be programmable in some ways. User will be able to program it to start automatic cleaning every day at the same time. Before that initial cleaning, room scanning will be performed as described before. Also, user will be able to pick a day for emptying the garbage bag.
 
 Success criteria:
   - Recognized first cleaning of the day (after date change).
-  - Recognizing day of the week for emptying garbage bag, and successfully emptying it.
+  - Recognizing day of the week for emptying the garbage bag, and successfully emptying it.
 
 
 6. Resistance: In order to last longer, SRHC will be made of steel. It will have some kind of armor so it cannot break if something falls on it.
 
 Success criteria:
-  - Not broken if something of house furniture, such as chair falls on it.
+  - Not broken if some house furniture, such as chair falls on it.
 
 
-7. Cleaning hardly accessible spots: Our robot will be able to access hardly accessible spots such as corners of the walls.
+7. Cleaning hard to reach places: Our robot will be able to access hard to reach places such as corners of the walls and high shelves.
 
 Success criteria:
-  - Cleared corners of the walls and other hardly accessible spots.
+  - Cleared corners of the walls and other hard to reach spots.
 
 
 # Implementation

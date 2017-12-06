@@ -44,8 +44,8 @@ cleaning the corners of the walls, cleaning the windows, and other user designat
 ##### SS, Belgrade, Serbia
 
 SS is a master student at Faculty of mathematics, University of Belgrade. His main subjects are based on computer science.
-He is very experienced in field of mathematics as he was competing in primary and high school. He also passed a lot of mathematical subjects during his time at Faculty of Mathematics. For this project is very important that every member has a good mathematical base. This is the reason his mathematical knowledge is important. His main tasks won't be connected to mathematics as we have other member whose primary field of knowledge is mathematics (AB).
-Primary field of knowledge of this member is computer science, specialized in mobile applications and low level programming of embedded systems. His main tasks will be connected to android / IOS applications that has connection with SRHC. He will also be in charge of programming the robot. His main area is low level embedded systems programming, but he will also use the help of our other member ND for different geometric algorithms. NK is specialized in that area.
+He is very experienced in the field of mathematics as he was competing in primary and high school. He also passed a lot of mathematical subjects during his time at Faculty of Mathematics. For this project it is very important that every member has a good mathematical base. This is the reason his mathematical knowledge is important. His main tasks won't be connected to mathematics as we have other member whose primary field of knowledge is mathematics (AB).
+Primary field of knowledge of this member is computer science, specialized in mobile applications and low level programming of embedded systems. His main tasks will be connected to android / IOS applications that have connection with SRHC. He will also be in charge of programming the robot. His main area is low level embedded systems programming, but he will also use the help of our other member ND for different geometric algorithms. ND is specialized in that area.
 
 His responsibilities will be:
   - developing android applications connected to SRHC
@@ -54,13 +54,31 @@ His responsibilities will be:
   - supervising IOS applications development
   - developing software for our robot
   - supervising software development for robot
-  - all responsibilities as S&T manager mentioned in 2.1 part Management structure and procedures
+  - all responsibilities as a S&T manager mentioned in 2.1 part Management structure and procedures
 
 SS experience in areas related to technologies we plan to use:
   - different android applications
   - different IOS applications
-  - development of robotic hand that can find and press button
-  - development of robot that can carry glass from one point to other
+  - development of robotic hand that can find and press a button
+  - development of robot that can carry a glass from one point to another
+
+#### ND, Belgrade, Serbia
+
+ND is a graduate student at Faculty of Mathematics, University of Belgrade, on his way to the Master's degree.
+He is interested and experienced with algorithms, data structures, and game development, of which the first two will be important for developing the key components,
+and the last one to combine them into a functioning whole.
+
+His responsibilities will be:
+  - developing optimal and efficient routing and mapping algorithms for SRHC
+  - developing visualizations of the work done by SRHC
+  - developing decision making components based on sensor input
+  - responsible for code review and management
+  - all responsibilities as a Team manager mentioned in 2.1 part Management structure and procedures
+
+ND experience in areas related to technologies we plan to use:
+  - android applications
+  - Unity Engine visualizations
+  - computer vision with SimpleCV
 
 ### 2.3 Consortium as a whole
 
