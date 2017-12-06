@@ -9,7 +9,8 @@
 ### STREP
 
 ### Work programme topics addressed:
-### ...?
+### Smart and healthy living at home
+	DT-TDS-01-2019
 
 
 

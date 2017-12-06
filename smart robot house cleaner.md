@@ -74,30 +74,16 @@ In addition to the costs indicated on form A3 of the proposal, and the effort sh
 
 ### 3.1 Expected impact listed in the work programme
 
-Smart and healthy living at home
-
-People automated so many aspects of our lives, but still every home needs regular vacuuming, cleaning, and dusting.
+People automated so many aspects of their lives, but still every home needs regular vacuuming, cleaning, and dusting.
 All those things take time and energy, and why should we spend those valuable resources on things we dislike doing?
 
 With our idea, said chores aren't such waste of human productivity.
-Everyone will have more time to relax, think about other things, or do more work where it counts.
+People will have more time to relax, think about other things, or do more work where it counts, and the SRHC will do the chores for them.
+With that offload on responsibilities, we expect people to feel more relaxed knowing that they'll have a clean house without so much involvement.
 
+By regularly cleaning, it reduces the amount of dirt and dust in the house, expecting increased health of people living in that household,
+especially if one is allergic to dust. Also, elderly people will benefit because they don't need to take action and hurt themselves in the progress.
+Furthermore, physically impaired people will benefit even more, for the obvious reasons.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
+We expect the general population to adopt the SRHC instead of more traditional cleaning techniques, and that it will inspire
+people to create more automated house helping robots, and increase the demand for them.
