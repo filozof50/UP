@@ -37,11 +37,30 @@ US 8774966 B2
 
 We want to expand beyond the current state-of-the art by using the already proven great features of robot cleaners, and adding more functionality.
 All these patents focus on cleaning the floor, but the logical follow up is to extend the possibilities so that it can also autonomously take care of other surfaces, like
-cleaning the corners of the walls, cleaning the windows, and other user designated surfaces such as tables and shelves. And that is exactly what our goal with the SRHC is`
+cleaning the corners of the walls, cleaning the windows, and other user designated surfaces such as tables and shelves. And that is exactly what our goal with the SRHC is.
 
 ### 2.2 Individual participants
 
-ovde svako da napise nesto o sebi, na osnovu onoga sto pise u wordu.
+##### SS, Belgrade, Serbia
+
+SS is a master student at Faculty of mathematics, University of Belgrade. His main subjects are based on computer science.
+He is very experienced in field of mathematics as he was competing in primary and high school. He also passed a lot of mathematical subjects during his time at Faculty of Mathematics. For this project is very important that every member has a good mathematical base. This is the reason his mathematical knowledge is important. His main tasks won't be connected to mathematics as we have other member whose primary field of knowledge is mathematics (AB).
+Primary field of knowledge of this member is computer science, specialized in mobile applications and low level programming of embedded systems. His main tasks will be connected to android / IOS applications that has connection with SRHC. He will also be in charge of programming the robot. His main area is low level embedded systems programming, but he will also use the help of our other member ND for different geometric algorithms. NK is specialized in that area.
+
+His responsibilities will be:
+  - developing android applications connected to SRHC
+  - developing IOS applications connected to SRHC
+  - supervising android applications development
+  - supervising IOS applications development
+  - developing software for our robot
+  - supervising software development for robot
+  - all responsibilities as S&T manager mentioned in 2.1 part Management structure and procedures
+
+SS experience in areas related to technologies we plan to use:
+  - different android applications
+  - different IOS applications
+  - development of robotic hand that can find and press button
+  - development of robot that can carry glass from one point to other
 
 ### 2.3 Consortium as a whole
 
@@ -56,7 +75,7 @@ ND is fond of design of algorithms which will be efficient and optimal for the p
 Those algorithms will communicate with the API to the hardware of the SRHC. ND Will be the team manager.
 
 SS will create the said API, and with his experience in mobile development will be the main developer
-of the Android / iOS apps connected to the SRHC. SS will be S&T manager.
+of the Android / iOS applications connected to the SRHC. SS will be S&T manager.
 
 ### 2.4	Resources to be committed
 ZA OVO NAM TREBA ANIN DEO VALJDA
