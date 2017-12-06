@@ -172,3 +172,49 @@ Billboards and will be set all over the cities and flyers will be distributed by
 The project will take part in different workshops, summer schools, seminars, conferences. Project has a lot of potential, and is very open for cooperation with other similar projects. There will be presentations and demos at large public events like technology fairs. There will be talk about sensors, computer vision, and also our ideas and how we managed to fulfill project goals.
 
 We are planning to make a patent of this project. We want to protect our intellectual property. This project has some improvements in comparison to some other similar projects as described before. We will make new patent of it because we want to save our intellectual property. We will consult European Patent Convention (EPC) and Patent Cooperation Treaty (PCT) for making patent out of project.
+
+
+## Section 4. Ethical Issues
+
+The proposed project does not directly involve any ethical, legal, social issues.
+
+Minor safety issues may arise if the SRHC makes an object fall whilst cleaning a surface that is above the floor.
+To prevent those issues, safety measures will be implemented to prevent dangerous outcomes in the form of sensors and SRHC's decision making.
+Decision making will always take into account what could go wrong, and in that case will skip any actions that may have an unwanted result.
+
+Special care will be stressed on the environmental issues. We will deal with special care when
+working with batteries, recycle materials, and focus on reducing the energy consumption of the SRHC.
+
+### Ethical Issues Table
+
+|   |  YES/NO  | PAGE  |
+|----------|:-------------:|:-------------:|
+| *Informed Consent* |  | |
+| Does the proposal involve children?  | NO | |
+|  Does the proposal involve patients or persons not able to give consent? | NO | |
+| Does the proposal involve adult healthy volunteers? | NO | |
+| Does the proposal involve Human Genetic Material?| NO | |
+| Does the proposal involve Human biological samples?| NO | |
+| Does the proposal involve Human data collection?| YES | |
+| Research on Human embryo/foetus |  | |
+| Does the proposal involve Human Embryos?| NO | |
+| Does the proposal involve Human Foetal Tissue / Cells?| NO | |
+| Does the proposal involve Human Embryonic Stem Cells?| NO | |
+| *Privacy* |  | |
+| Does the proposal involve processing of genetic information or personal data (eg. health, sexual lifestyle, ethnicity, political opinion, religious or philosophical conviction)| NO | |
+| Does the proposal involve tracking the location or observation of people? | NO | |
+| Research on Animals |  | |
+| Does the proposal involve research on animals? | NO | |
+| Are those animals transgenic small laboratory animals? | NO | |
+| Are those animals transgenic farm animals?| NO | |
+| Are those animals cloned farm animals? | NO | |
+| Are those animals non-human primates? | NO | |
+| *Research Involving Developing Countries* | | |
+| Use of local resources (genetic, animal, plant etc) | NO | |
+| Impact on local community| NO | |
+| *Dual Use* |  | |
+| Research having direct military application | NO | |
+| Research having the potential for terrorist abuse | NO | |
+| *ICT Implants* | | |
+| Does the proposal involve clinical trials of ICT implants? | NO | |
+| ** I CONFIRM THAT NONE OF THE ABOVE ISSUES APPLY TO MY PROPOSAL ** | YES | |
