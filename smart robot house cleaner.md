@@ -96,16 +96,30 @@ SS will create the said API, and with his experience in mobile development will 
 of the Android / iOS applications connected to the SRHC. SS will be S&T manager.
 
 ### 2.4	Resources to be committed
-ZA OVO NAM TREBA ANIN DEO VALJDA
 
+A lot of different resources will be needed for completing SRHC project. It is very large and complex project, and beside a lot of time we have to spend we also need resources. This project needs different kind of resources.
 
-(Maximum length for Section 2.4 – two pages)
+Project manager has spoken to some companies and made some agreements.
 
-Describe how the totality of the necessary resources will be mobilised, including any resources that will complement the EC contribution. Show how the resources will be integrated in a coherent way, and show how the overall financial plan for the project is adequate.
+Enevo - Finland company found 2010. Their primary filed of production are intelligent sensors. We made an agreement with them. Enevo will make all relevant sensors for SRHC project. Smart robot house cleaner needs sensors for detecting movement (cats for example), detecting static objects etc. All kind of sensors will be provided by Enevo.
 
-In addition to the costs indicated on form A3 of the proposal, and the effort shown in section 1.3 above, please identify any other major costs (e.g. equipment). Ensure that the figures stated in Part B are consistent with these.
+Very important components of the SRHC will be microchips. ND made an excellent agreement with company that makes different kinds of microchips our robot needs to be functional. Company country is Belgium, and company name is NewFusion.
 
+Our robot also need processor for calculations and computing. Project manager made an agreement with Intel company. They are willing to make some specific processors SRHC will need. It's not standard processor. Some of the operations have to be much faster to the detriment of some others.
 
+Hardware parts and elements are probably crucial. We need to make functional parts made of steel as we noted before. There will be a lot of different parts, wheels, levers etc.
+
+Expert in integration of microchips and intelligent sensors with hardware parts of the SRHC is very important.
+
+Our costs will cover:
+  - intelligent sensors made by Enevo
+  - NewFusion's microchips
+  - specific Intel processors (we probably will need more than one processors, because of prototypes
+                               and some for testing purposes)
+  - expert in earlier mentioned integration
+  - hardware parts prices
+
+Project is based on geometric and AI algorithms so we need very good hardware support. We need powerful computers with good CPUs. Our costs will also cover prices for those computers.
 
 ## Section 3. Impact
 
