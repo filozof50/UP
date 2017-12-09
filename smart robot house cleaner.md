@@ -80,6 +80,21 @@ ND experience in areas related to technologies we plan to use:
   - Unity Engine visualizations
   - computer vision with SimpleCV
 
+#### AB, Belgrade, Serbia
+
+AB is a student at Faculty of Mathematics, University of Belgrade, currently attending Master degree studies.
+She is interested in mathematical optimization, which will help make SRHC faster and better, as well as in software testing, which will be important for making sure everything runs smoothly and the final product satisfies customers' needs. Her strong mathematical skills will be of great asset in the work she will be doing.
+
+Her responsibilities will be:
+  - optimizing AI algorithms for SRHC
+  - testing prototypes and the final product
+  - improving the quality of SRHC's structural elements
+  
+AB experience in areas related to technologies we plan to use:
+  - mathematical optimization
+  - white and black box testing
+  - aritifical intelligence algorithms and parameter tuning
+
 ### 2.3 Consortium as a whole
 
 While the three participants all come from the same educational background, they differ in experiences and interests in various fields.
