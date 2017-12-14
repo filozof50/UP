@@ -1,0 +1,25 @@
+Za kupovinu naseg robota za ciscenje pratimo 3 grupe korisnika:
+	- ljude koji ne rade (ili ne idu na posao tako cesto) pa vecinu vremena provode kod kuce (radeci kucne poslove npr)
+	- ljude koji mnogo rade i nemaju previse vremena za ciscenje
+	- ljude koji imaju sale za vencanja, hotele, restorane, kafice ili bilo kakve druge vece prostore koje je potrebno cistiti i odrzavati i zaposlene 
+	  koji ciste/odrzavaju
+	  
+Kao sto je profesor Atila naveo razmotrili smo pitanja koja bi mogla da imaju 4 odgovora takva da na osnovu njih mozemo da korisnika svrstamo u jednu od dve grupe
+(1-2;1-3;2-3). Dakle, imamo 3 pitanja sa po 4 moguca odgovora na osnovu kojih razvrstavamo korisnike.
+
+Prvo pitanje:
+	- odnosi se na vreme provedeno na poslu i u ciscenju gde uporedjujemo prvu i drugu grupu korisnika
+	
+Drugo pitanje:
+	- odnosi se na to da li osoba ima zaposlene koji (samo) ciste ili im je u opisu posla i ciscenje gde uporedjujemo prvu i trecu grupu korisnika
+	
+Trece pitanje:
+	- odnosi se na svrhu kupovine robota gde uporedjujemo drugu i trecu grupu korisnika 
+	
+Na osnovu prikupljenih odgovora formiramo vektor brojeva koji predstavljaju kojoj grupi na osnovu odgovora na i-to pitanje korisnik pripada. Broj koji se javlja
+najvise puta u okviru vektora predstavlja grupu kojoj korisnik pripada.
+
+Nakon odredjivanja grupe kojoj korisnik pripada njemu se nude neke ponude koje bi mu mogle odgovarati.
+Za prvu grupu to je odmor u vili na Zlatiboru, 
+za drugu sajt koji nudi kvalitetne restorane po celom svetu, 
+a za trecu je to popust na kupovinu vise od jednog robota.
